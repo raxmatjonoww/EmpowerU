@@ -1,73 +1,27 @@
-# Welcome to your Lovable project
+Welcome to Empower U | Nasiba 🦋
 
-## Project info
+Hey there! 
+I’m Nasiba, an English teacher, language enthusiast, and lifelong learner with a passion for personal and academic growth. 
 
-**URL**: https://lovable.dev/projects/d27fe1c7-4c9f-4cb5-b74a-11f628958787
+🎓 I hold a Bachelor’s degree in Electrical and Computer Engineering, but my true calling has always been communication, education, and empowering others.
 
-## How can I edit this code?
+🌱 Over the years, I’ve achieved an IELTS score of 8.0 (with 8.5 in Speaking), won first place in a Public Speaking Competition, and published research on the “Language barriers international students in multilingual universities”. 
+Now, I’m here to share my journey and everything I’ve learned along the way.
 
-There are several ways of editing your application.
+Here, you’ll find:
+✨ Language Learning Tips - 
+How to improve your English, Korean, and more with practical methods.
 
-**Use Lovable**
+🎓 Study Abroad Insights – Scholarships, applications, and everything you need to chase your academic dreams.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d27fe1c7-4c9f-4cb5-b74a-11f628958787) and start prompting.
+💻 Freelancing & Productivity – Side hustles, organization hacks, and time management.
 
-Changes made via Lovable will be committed automatically to this repo.
+📚 My Book Addiction – Reviews, recommendations, and deep dives into thought-provoking reads.
 
-**Use your preferred IDE**
+🗣 Speaking Course Updates – Strategies to boost your confidence and fluency in English.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🥗 Healthy Living – Simple, effective ways to stay fit, even with a busy schedule.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+If you’re looking to grow, learn, and empower yourself, you’re in the right place! Let’s build this journey together. 💙
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d27fe1c7-4c9f-4cb5-b74a-11f628958787) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+💡Empower someone today—pass it on! → https://t.me/Nasiba_EmpowerU
